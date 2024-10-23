@@ -141,9 +141,8 @@ input[type="checkbox"]:disabled {
   text-decoration: line-through;
 }
 
-/* Add this CSS for the strikethrough effect */
 .completed {
     text-decoration: line-through;
-    color: rgb(0, 0, 0); /* Optional: Change the color to indicate it's done */
+    color: rgb(0, 0, 0); 
   }
   
